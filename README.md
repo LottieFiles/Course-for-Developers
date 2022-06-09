@@ -6,24 +6,23 @@ Motion is becoming a key ingredient of any digital experience. Lottie animations
 
 - **Who is this for**: Web and Mobile app developers.
 - **What you'll learn**: How to implement Lottie animations on websites, iOS and Android apps.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: JavaScript for Web developers, Kotlin and Swift for mobile implementations.
+- **Prerequisites**: JavaScript for Web developers, Kotlin or Jetpack Compose and Swift for mobile implementations.
 - **How long**: This course consists of total 7 video tutorials. 
 
 ## How to start this course
 
-1. Navigate to [Issues](https://github.com/LottieFiles/LottieFiles-Course/issues?q=is%3Aissue+is%3Aclosed) from the top navigation in this repository. 
-    <img src="https://static.lottiefiles.com/static_uploads/GithubCourseStep1@2x.png" height="150" alt="Navigate to Issues">
+1. Navigate to [Issues](https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues) from the top navigation in this repository. 
+    <img src="https://static.lottiefiles.com/static_uploads/step1.png" height="150" alt="Navigate to Issues">
     
-2. Click on [Closed Issues](https://github.com/LottieFiles/LottieFiles-Course/issues?q=is%3Aissue+is%3Aclosed) to show available issues.
-    <img src="https://static.lottiefiles.com/static_uploads/GithubCourseStep2@2x.png" height="150" alt="Navigate to Closed Issues">
+2. Click on [Closed Issues](https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues?q=is%3Aissue+is%3Aclosed) to show available issues.
+    <img src="https://static.lottiefiles.com/static_uploads/step2.png" height="150" alt="Navigate to Closed Issues">
 
-3. Click on **Why Motion** issue to watch an intro to why Motion.
-	<a href="https://github.com/LottieFiles/LottieFiles-Course/issues/6#issue-1257844906" title="Why Motion by LottieFiles"><img src="https://static.lottiefiles.com/static_uploads/GithubCourseStep3@2x.png" height="170" alt="Closed Issues"></a>
+3. Click on **Introduction to Lottie for Developers** closed issue to start the course.
+	<a href="https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues/1" title="Why Motion by LottieFiles"><img src="https://static.lottiefiles.com/static_uploads/step3.png" height="170" alt="Closed Issues"></a>
 
 4. Start the first episode by watching the embedded video and continue to the next episodes from issue replies.
-<a href="https://github.com/LottieFiles/LottieFiles-Course/issues/6#issue-1257844906" title="Why Motion by LottieFiles">
-	<img src="https://static.lottiefiles.com/static_uploads/GithubCourseStep4@2x.png" height="294" alt="Why Motion Episode"></a>
+<a href="https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues/1" title="Why Motion by LottieFiles">
+	<img src="https://static.lottiefiles.com/static_uploads/step4.png" height="294" alt="Why Motion Episode"></a>
 
 
 ## Free Resources & Links
