@@ -12,17 +12,21 @@ Motion is becoming a key ingredient of any digital experience. Lottie animations
 ## How to start this course
 
 1. Navigate to [Issues](https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues) from the top navigation in this repository. 
-    <img src="https://static.lottiefiles.com/static_uploads/step1.png" height="150" alt="Navigate to Issues">
+
+<img src="https://static.lottiefiles.com/static_uploads/step1.png" height="150" alt="Navigate to Issues">
     
 2. Click on [Closed Issues](https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues?q=is%3Aissue+is%3Aclosed) to show available issues.
-    <img src="https://static.lottiefiles.com/static_uploads/step2.png" height="150" alt="Navigate to Closed Issues">
+
+<img src="https://static.lottiefiles.com/static_uploads/step2.png" height="185" alt="Navigate to Closed Issues">
 
 3. Click on **Introduction to Lottie for Developers** closed issue to start the course.
-	<a href="https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues/1" title="Why Motion by LottieFiles"><img src="https://static.lottiefiles.com/static_uploads/step3.png" height="170" alt="Closed Issues"></a>
+
+<a href="https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues/1" title="Why Motion by LottieFiles"><img src="https://static.lottiefiles.com/static_uploads/step3.png" height="155" alt="Closed Issues"></a>
 
 4. Start the first episode by watching the embedded video and continue to the next episodes from issue replies.
+
 <a href="https://github.com/LottieFiles/LottieFiles-course-for-Developers/issues/1" title="Why Motion by LottieFiles">
-	<img src="https://static.lottiefiles.com/static_uploads/step4.png" height="294" alt="Why Motion Episode"></a>
+	<img src="https://static.lottiefiles.com/static_uploads/step4.png" height="343" alt="Why Motion Episode"></a>
 
 
 ## Free Resources & Links
@@ -30,6 +34,6 @@ Motion is becoming a key ingredient of any digital experience. Lottie animations
 - Free-to-use high-quality Lottie Animations contributed by the community at LottieFiles. [Link](https://lottiefiles.com/what-is-lottie)
 - Open-source libraries to integrate Lottie to more platforms. [Link](https://lottiefiles.com/integrations#:~:text=to%20a%20CDN.-,Lottie%20libraries,-A%20complete%20ecosystem)
 
-Get help: [Post in our discussion board](https://github.com/LottieFiles/LottieFiles-Course/discussions)
+Get help: [Post in our discussion board](https://github.com/LottieFiles/LottieFiles-course-for-Developers/discussions)
 
 &copy; 2022 LottieFiles &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
